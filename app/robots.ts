@@ -13,6 +13,6 @@ export default function robots(): MetadataRoute.Robots {
 				disallow: ['/private/'],
 			},
 		],
-		sitemap: `${siteConfig.domain}/sitemap.xml`,
+		sitemap: `${siteConfig.domain}sitemap.xml`,
 	}
 }

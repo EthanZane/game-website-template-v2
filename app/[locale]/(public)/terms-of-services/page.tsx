@@ -32,7 +32,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     title: `${frontMatter.title} | ${siteConfig.name}`,
     description: frontMatter.description,
     alternates: {
-      canonical: `${host}/terms-of-services`,
+      canonical: `${siteConfig.domain}terms-of-services`,
     },
     robots: {
       index: false,

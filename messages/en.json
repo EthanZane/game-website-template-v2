@@ -1,15 +1,15 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "Sprunki Pyramixed ",
+  "slogan": "Explore the unique universe of Sprunki Pyramixed!",
+  "description": "Play Sprunki Pyramixed (also known as Sprunki Pyramix, Pyramixed Sprunki) on Cocrea - Create amazing music mixes, explore unique characters, and join our creative community. Official home of Sprunki Pyramixed mod and mixes.",
   "Loading": {
-    "title": ""
+    "title": "Loading Sprunki Pyramixed..."
   },
-  "Navbar":{
-    "title": "Nav"
+  "Navbar": {
+    "title": "Navigation"
   },
   "Common": {
-    "createAt": "Create At",
+    "createAt": "Created At",
     "guide": "Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfServices": "Terms of Services",
@@ -18,53 +18,59 @@
     "friendlyLinks": "Friendly Links",
     "articleList": "Article List",
     "home": "Home",
-    "next":"Next",
-    "previous":"Previous"
+    "next": "Next",
+    "previous": "Previous"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
-    "iframeTitle": "Game Preview",
+    "title": "Discover Sprunki Pyramixed",
+    "description": "xxxx",
+    "iframeTitle": "Sprunki Pyramixed Preview",
     "fullscreenButton": "Fullscreen",
     "shareButton": "Share",
     "urlCopied": "URL copied to clipboard!",
-    "downloadGame": "Download Game",
+    "downloadGame": "Download Sprunki Pyramixed",
     "playGame": "Play Game"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
-    "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "gameTitle": "Sprunki Pyramixed: A New Musical Journey",
+    "whatIsTitle": "What is Sprunki Pyramixed?",
+    "whatIsDescription": " [highlight]Sprunki Pyramixed[/highlight] is a groundbreaking rhythm-based music creation game that revolutionizes the way players interact with music and gameplay. Set in a vibrant, geometric world inspired by pyramid shapes, players take control of the iconic character Sprunki as they navigate through mesmerizing musical landscapes. The game seamlessly blends elements of rhythm gaming with creative music mixing, allowing players to craft their own unique soundscapes while progressing through increasingly challenging levels. ",
+    "howToPlayTitle": "How to Play Sprunki Pyramixed",
+    "howToPlayStep1": "Start Your Musical Journey: Launch the game and enter the vibrant world of Sprunki Pyramixed. Choose your character and get ready to create!",
+    "howToPlayStep2": "Master the Basics: Learn the intuitive controls - tap to the beat, drag elements to mix sounds, and combine different musical patterns.",
+    "howToPlayStep3": "Create Your Mix: Experiment with various sound samples, effects, and rhythms. Layer different beats and melodies to craft your unique track.",
+    "howToPlayStep4": "Progress and Unlock: Complete challenges to unlock new characters, sounds, and special effects. Each level brings new musical possibilities.",
+    "howToPlayStep5": "Share and Compete: Save your best mixes, share them with the community, and challenge others to beat your high scores!",
+    "keyFeaturesTitle": "Key Features of Sprunki Pyramixed",
+    "feature1Title": "Innovative Music Creation",
+    "feature1Description": "Create stunning music mixes with our revolutionary rhythm-based system. Blend beats, melodies, and effects in real-time while your character moves through the geometric world.",
+    "feature2Title": "Dynamic Gameplay",
+    "feature2Description": "Experience an ever-changing musical journey where your actions shape the soundtrack. Each level features unique sound combinations and challenging rhythm patterns.",
+    "feature3Title": "Rich Content Library",
+    "feature3Description": "Access a vast collection of musical elements, including electronic beats, orchestral sounds, and special effects. New content updates regularly expand your creative possibilities.",
+    "feature4Title": "Cross-Platform Play",
+    "feature4Description": "Play seamlessly across devices - start creating on your mobile and continue on desktop. Your progress and creations sync automatically.",
+    "feature5Title":"Community Features",
+    "feature5Description":"Share your musical creations, collaborate with other players, and participate in community challenges. Vote for your favorite mixes and gain inspiration from top creators.",
+    "feature6Title":"Accessible Design",
+    "feature6Description":"Jump right in with intuitive controls and helpful tutorials. Whether you're a music pro or complete beginner, Sprunki Pyramixed welcomes all skill levels."
   },
   "HomeFAQs": {
-    "title": "FAQs"
+    "title": "FAQs about Sprunki Pyramixed"
   },
   "HomeRelatedVideo": {
-    "title": "Game Video"
+    "title": "Sprunki Pyramixed Video"
   },
   "HomeRecommendation": {
-    "title": "Recommends"
+    "title": "Recommended Games"
   },
   "HomeComments": {
-    "title": "Play Comments"
+    "title": "Comments on Sprunki Pyramixed"
   },
   "GamePage": {
     "title": "All Games",
     "description": "All Games",
-    "games":"Games"
+    "games": "Games"
   },
   "CategoryPage": {
     "categories": "Categories",

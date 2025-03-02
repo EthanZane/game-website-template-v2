@@ -33,6 +33,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     description: t('description'),
     alternates: {
       languages: alternatesLanguage(''),
+      canonical: `${siteConfig.domain}`,
     },
     icons: {
       icon: siteConfig.icon,
@@ -45,9 +46,13 @@ export default async function Page({ params }: Props) {
   const { locale = defaultLocale } = await params;
   setRequestLocale(locale);
   const siteConfig2 = siteConfig as unknown as SiteConfig
+  //by zhengl 
+  //pageHome看起来是个废弃的参数，用于从国际化文件en.json中取到对应的游戏的faq等
+  //但是现在设计似乎都是从message/[locale]目录下对应的文件中获取国际化，即国际化的配置分开配置了，这个参数应该废弃了
   const pageName = siteConfig2.pageName;
   let features2ContentResult = null;
   if(siteConfig2.customizeFeatures){
+    
     try {
       const Content = (await import(`!!raw-loader!./config/features/${locale}.mdx`)).default;
       const { content } = matter(Content);

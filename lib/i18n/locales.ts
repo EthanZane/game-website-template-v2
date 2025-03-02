@@ -43,22 +43,22 @@ export const SL = 'sl';
 export const localeNames = {
   [EN]: 'English', // 英语
   [ZH_CN]: '简体中文',
-  [ES]: 'Español', // 西班牙语
-  [FR]: 'Français', // 法语
-  [BN]: 'বাংলা (Bangla)', // 孟加拉语
-  [RU]: 'Русский', // 俄语
-  [PT]: 'Português', // 葡萄牙语
-  [PT_BR]: 'Português do Brasil', // 巴西葡萄牙语
-  [ID]: 'Bahasa Indonesia', // 印度尼西亚语
-  [DE]: 'Deutsch', // 德语
-  [JA]: '日本語', // 日语
-  [TR]: 'Türkçe', // 土耳其语
-  [VI]: 'Tiếng Việt', // 越南语
-  [TH]: 'ไทย (Thai)', // 泰语
-  [KO]: '한국어', // 韩语
-  [IT]: 'Italiano', // 意大利语
-  [UK]: 'Українська', // 乌克兰语
-  [ZH_TW]: '繁体中文', // 繁体中文
+  // [ES]: 'Español', // 西班牙语
+  // [FR]: 'Français', // 法语
+  // [BN]: 'বাংলা (Bangla)', // 孟加拉语
+  // [RU]: 'Русский', // 俄语
+  // [PT]: 'Português', // 葡萄牙语
+  // [PT_BR]: 'Português do Brasil', // 巴西葡萄牙语
+  // [ID]: 'Bahasa Indonesia', // 印度尼西亚语
+  // [DE]: 'Deutsch', // 德语
+  // [JA]: '日本語', // 日语
+  // [TR]: 'Türkçe', // 土耳其语
+  // [VI]: 'Tiếng Việt', // 越南语
+  // [TH]: 'ไทย (Thai)', // 泰语
+  // [KO]: '한국어', // 韩语
+  // [IT]: 'Italiano', // 意大利语
+  // [UK]: 'Українська', // 乌克兰语
+  // [ZH_TW]: '繁体中文', // 繁体中文
 } as Record<string, string>;
 
 export const defaultLocale = EN;

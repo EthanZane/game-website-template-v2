@@ -1,8 +1,9 @@
 {
-  "name": "Sprunki Retake",
+  "name": "Sprunki Pyramixed",
   "slogan": "slogan",
-  "domain": "https://sprunkiretake.fun",
+  "domain": "https://pyramixed.cc/",
   "icon": "/favicon.ico",
+  "logoUrl": "/apple-touch-icon.png",
   "appleIcon": "/apple-touch-icon.png",
   "theme": {
     "headFont": null,
@@ -13,20 +14,6 @@
   "gaId": "G-XXXXXXXXXX",
   "clarityId": "",
   "plausible": "https://app.pageview.app/js/script.js",
-  "navbarItems": [
-    {
-      "title": "home",
-      "href": "/"
-    },
-    {
-      "title": "guide",
-      "href": "/guide"
-    },
-    {
-      "title": "information",
-      "href": "/t"
-    }
-  ],
   "gameType": "popup",
   "gameIframeUrl": "https://scratch.mit.edu/projects/1090434936/embed",
   "gameRedirectUrl": "",

@@ -48,8 +48,8 @@ export default function AppNavbar({ items }: { items: NavbarItem[] }) {
   };
 
   return (
-    <header className="sticky top-0 z-50 w-full border-b border-border bg-navbar backdrop-blur supports-[backdrop-filter]:bg-navbar/95">
-      <div className="container flex h-16 items-center px-4">
+    <header className="sticky top-0 z-50 w-full  border-b border-border bg-navbar backdrop-blur supports-[backdrop-filter]:bg-navbar/95">
+      <div className="container mx-auto flex h-16 items-center px-4">
         <Sheet open={isMenuOpen} onOpenChange={setIsMenuOpen}>
           <SheetTrigger asChild className="md:hidden">
             <Button variant="ghost" className="text-navbar-foreground">

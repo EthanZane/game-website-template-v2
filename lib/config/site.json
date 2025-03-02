@@ -1,12 +1,13 @@
 {
-  "name": "",
+  "name": "Sprunki Pyramixed",
   "slogan": "slogan",
-  "domain": "",
+  "domain": "https://pyramixed.cc/",
   "icon": "/favicon.ico",
+  "logoUrl": "/apple-touch-icon.png",
   "appleIcon": "/apple-touch-icon.png",
   "templateType":"single-game",
   "theme": {
-    "name":"dark",
+    "name":"cyberpunk-neon",
     "headFont": "Arial, sans-serif",
     "primaryColor": "#007bff",
     "fontColor": "#333333",
@@ -16,12 +17,21 @@
   "clarityId": "",
   "plausible": "",
   "gameType": "iframe",
-  "gameIframeUrl": "",
+  "gameIframeUrl": "https://wowtbc.net/sprunkin/sprunki-pyramixed/index.html",
   "gameRedirectUrl": "",
   "bgType": "iframe",
   "bgImage": "",
   "bgVideo": "",
-  "friendLinks":[],
+  "friendLinks":[
+    {
+      "title": "jujutsuinfinite",
+      "url": "https://jujutsuinfinite.com/"
+    },
+    {
+      "title": "hapunangame",
+      "url": "https://hapunangame.com/"
+    }
+  ],
   "gameDownload": {
     "showDownloadButton": true,
     "downloadUrls": {
@@ -33,11 +43,31 @@
     }
   },
   "isShowFAQs": true,
-  "isShowVideo": false,
+  "isShowVideo": true,
   "videos": [
     {
-      "title": "",
-      "url": ""
+      "title": "Sprunki Pyramixed Gameplay",
+      "url": "https://www.youtube.com/embed/S3shXQuaT6w?si=JhMcPsvG2rVToOVo"
+    },
+    {
+      "title": "Music Creation Tutorial",
+      "url": "https://www.youtube.com/embed/chYTXqxeFrU?si=VM48WNJAWyhNB757"
+    },
+    {
+      "title": "Character Showcase",
+      "url": "https://www.youtube.com/embed/CA6AKbnj27o?si=ZFRoP_zB2dlsr7Vo"
+    },
+    {
+      "title":"Latest Features",
+      "url":"https://www.youtube.com/embed/nti-FzhKKcY?si=KmmEDbL1UsMDotdM"
+    },
+    {
+      "title":"Advanced Techniques",
+      "url":"https://www.youtube.com/embed/wHBRacXyUGM?si=7depB5ysB-ETSnai"
+    },
+    {
+      "title":"NEW SOUNDS",
+      "url":"https://youtu.be/chYTXqxeFrU?si=SjX8TayWe5A3MtIp"
     }
   ],
   "isShowComments": true,
@@ -48,10 +78,40 @@
   ],
   "comments": [
     {
-      "author": "",
-      "role": "",
-      "content": "",
-      "avatar": ""
+      "author": "MusicMaster88",
+      "role": "Verified Player",
+      "content": "Sprunki Pyramixed completely changed my perspective on music games! The creation system is so intuitive that even music novices can create stunning mixes. The pyramid-inspired visual design is absolutely mesmerizing!",
+      "avatar": "https://api.randomx.ai/avatar/MK.png"
+    },
+    {
+      "author": "RhythmKing",
+      "role": "Pro Creator",
+      "content": "As a music producer, I'm impressed by the depth of this game. The sound library is extensive and regularly updated. I've created over 50 tracks here, and the community feedback has been amazing!",
+      "avatar": "https://api.randomx.ai/avatar/Lorenz S..png"
+    },
+    {
+      "author": "CasualGamer123",
+      "role": "New Player",
+      "content": "Super addictive! I was worried it might be too complex at first, but the tutorials are well-designed and progressive. Now I play a few levels every day, and unlocking new sound effects is so rewarding.",
+      "avatar": "https://api.randomx.ai/avatar/Packy McCormick.png"
+    },
+    {
+      "author": "BeatExplorer",
+      "role": "Community Leader",
+      "content": "The community features are one of the best parts. Being able to see other players' creations, learn and interact is fantastic. Cross-platform sync is a game-changer - create on mobile, continue on PC!",
+      "avatar": "https://api.randomx.ai/avatar/Mike Taylor.png"
+    },
+    {
+      "author": "SoundDesigner",
+      "role": "Music Producer",
+      "content": "As a professional musician, I must say the audio quality is impressive. The mixing system is professionally designed yet accessible to beginners. Perfect balance of depth and usability!",
+      "avatar": "https://api.randomx.ai/avatar/Lex Fridman.png"
+    },
+    {
+      "author": "PyramidQueen",
+      "role": "Top Player",
+      "content": "Nearly 200 hours in and still can't get enough. Each update brings new mechanics and sounds. The recent community challenges are particularly exciting, with everyone creating unique mixing styles.",
+      "avatar": "https://api.randomx.ai/avatar/Ben Stephens — ??️/acc.png"
     }
   ],
   "isShowRecommendation": true,

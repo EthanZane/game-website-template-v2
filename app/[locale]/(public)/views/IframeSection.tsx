@@ -114,7 +114,8 @@ export default async function IframeSection({pageName}:{pageName:string|null|und
       <div className="mt-4 z-20 relative">
           <IframeActions pageName={pageName}/>
         </div>
-      <Ad/>
+      {/* 注释掉广告 by zhengl */}
+      {/* <Ad/> */}
     </section>
   );
 }
