@@ -22,6 +22,7 @@ export default async function LocaleLayout({ children, params }: Props) {
   const { locale = defaultLocale } = await params;
   setRequestLocale(locale);
   const isDev = process.env.NODE_ENV === 'development';
+  // console.log('isdev', isDev)
   const messages = await getMessages();
   let navbars: NavbarItem[];
   try {
@@ -48,6 +49,7 @@ export default async function LocaleLayout({ children, params }: Props) {
   });
   // 提取域名
   const domain = siteConfig.domain.replace(/^https?:\/\//, '').replace(/\/.*$/, '');
+  // console.log(siteConfig);
   return (
     <NextIntlClientProvider messages={messages} locale={locale}>
       <NextUIProvider>
@@ -56,7 +58,8 @@ export default async function LocaleLayout({ children, params }: Props) {
         <Navbar items={navbars} />
         {children}
         <Footer items={navbars} />
-        {!isDev && (
+        {/* {!isDev && ( */}
+          {(
           <>
             {siteConfig.gaId && <GoogleAnalytics gaId={siteConfig.gaId as string} />}
             {siteConfig.plausible && <script defer data-domain={domain} src={siteConfig.plausible}></script>}

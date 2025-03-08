@@ -50,10 +50,10 @@
     "feature3Description": "Access a vast collection of musical elements, including electronic beats, orchestral sounds, and special effects. New content updates regularly expand your creative possibilities.",
     "feature4Title": "Cross-Platform Play",
     "feature4Description": "Play seamlessly across devices - start creating on your mobile and continue on desktop. Your progress and creations sync automatically.",
-    "feature5Title":"Community Features",
-    "feature5Description":"Share your musical creations, collaborate with other players, and participate in community challenges. Vote for your favorite mixes and gain inspiration from top creators.",
-    "feature6Title":"Accessible Design",
-    "feature6Description":"Jump right in with intuitive controls and helpful tutorials. Whether you're a music pro or complete beginner, Sprunki Pyramixed welcomes all skill levels."
+    "feature5Title": "Community Features",
+    "feature5Description": "Share your musical creations, collaborate with other players, and participate in community challenges. Vote for your favorite mixes and gain inspiration from top creators.",
+    "feature6Title": "Accessible Design",
+    "feature6Description": "Jump right in with intuitive controls and helpful tutorials. Whether you're a music pro or complete beginner, Sprunki Pyramixed welcomes all skill levels."
   },
   "HomeFAQs": {
     "title": "FAQs about Sprunki Pyramixed"
@@ -77,5 +77,220 @@
     "noCategories": "No categories found",
     "viewMore": "View More",
     "page": "Page"
+  },
+  "DownloadPage": {
+    "meta": {
+      "title": "Download Sprunki Pyramixed - Official Mobile Game",
+      "description": "Download Sprunki Pyramixed - Get the official game for iOS and Android. Create amazing music mixes on your mobile device."
+    },
+    "title": "Download Sprunki Pyramixed",
+    "description": "Get ready to create amazing music mixes on your mobile device!",
+    "webVersion": {
+      "title": "Can't download right now?",
+      "description": "Try our web version instantly!",
+      "playButton": "Play Online Now"
+    },
+    "downloadTitle": "Download Sprunki Pyramixed",
+    "ios": {
+      "title": "iOS Version",
+      "feature1": "Optimized for iOS 12.0+",
+      "feature2": "Universal app for iPhone & iPad",
+      "feature3": "iCloud sync support",
+      "downloadButton": "Download on App Store"
+    },
+    "android": {
+      "title": "Android Version",
+      "feature1": "Android 8.0+ supported",
+      "feature2": "Optimized for all devices",
+      "feature3": "Cloud save enabled",
+      "downloadButton": "Get it on Google Play"
+    },
+    "requirements": {
+      "title": "System Requirements",
+      "ios": {
+        "title": "iOS Requirements",
+        "os": "iOS 12.0 or later",
+        "device": "iPhone, iPad, and iPod touch",
+        "space": "200 MB free space",
+        "network": "Internet connection for updates"
+      },
+      "android": {
+        "title": "Android Requirements",
+        "os": "Android 8.0 or higher",
+        "ram": "2GB RAM minimum",
+        "space": "250 MB free space",
+        "network": "Internet connection for updates"
+      }
+    }
+  },
+  "CharacterPage": {
+    "meta": {
+      "title": "Sprunki Pyramixed Characters - Meet All Musical Characters",
+      "description": "Meet all Sprunki Pyramixed characters! From melodic Mr. Sun to rhythmic Oren, discover each character's unique sounds and abilities. Create amazing music mixes with our diverse cast.",
+      "keywords": "Sprunki Pyramixed characters, Sprunki Pyramixed music characters, Sprunki Pyramixed game characters, Sprunki Pyramixed character list, Sprunki Pyramixed character profiles"
+    },
+    "title": "Sprunki Pyramixed Characters",
+    "description": "Meet our diverse cast of musical characters!",
+    "desc_p": "Sprunki Pyramixed is a creative and rhythm-filled game where players can mix and match different characters to create their own unique musical masterpieces. Each character not only has a distinct look but also represents different sound elements, enriching the player's music-making experience.",
+    "Melody-Characters": {
+      "title": "Melody Characters",
+      "cardlist": [
+        {
+          "title": "Mr. Sun",
+          "character": "Melody Master",
+          "desc": "A sun with a happy face symbolizing optimism. Brings cheerful, uplifting melodies, adding positive energy to any track.",
+          "features": ["Cheerful melodies", "Positive energy", "Uplifting vibes"],
+          "image_url": "/characters/mr-sun.webp"
+        },
+        {
+          "title": "Durple (Sprunki Purple)",
+          "character": "Soul Melodist",
+          "desc": "A purple dragon embodying mystery and charm. Offers rich, soulful melodies, adding depth and emotion to your work.",
+          "features": ["Rich melodies", "Emotional depth", "Mysterious charm"],
+          "image_url": "/characters/durple.webp"
+        },
+        {
+          "title": "Mr. Tree",
+          "character": "Nature's Composer",
+          "desc": "A bright green tree with a joyful expression. Mimics organ or church bell sounds, perfect for light, cheerful melodies.",
+          "features": ["Bell sounds", "Natural tones", "Cheerful melodies"],
+          "image_url": "/characters/mr-tree.webp"
+        },
+        {
+          "title": "Simon (Sprunki Yellow)",
+          "character": "Catchy Tune Creator",
+          "desc": "Yellow design symbolizing happiness and energy. Brings bright, catchy melodies, making your track unforgettable.",
+          "features": ["Catchy tunes", "Bright melodies", "Energetic sound"],
+          "image_url": "/characters/simon.webp"
+        },
+        {
+          "title": "Tunner (Sprunki Brown)",
+          "character": "Comfort Melodist",
+          "desc": "Brownish design, evoking warmth and coziness. Provides gentle, comforting melodies, perfect for a warm atmosphere.",
+          "features": ["Warm tones", "Gentle melodies", "Cozy atmosphere"],
+          "image_url": "/characters/tunner.webp"
+        }
+      ]
+    },
+    "Vocal-Characters": {
+      "title": "Vocal Characters",
+      "cardlist": [
+        {
+          "title": "Mr. Fun Computer",
+          "character": "Digital Vocalist",
+          "desc": "A cute robot with a futuristic voice. His mechanical voice is ideal for dynamic and creative works.",
+          "features": ["Digital vocals", "Electronic effects", "Tech-inspired sounds"],
+          "image_url": "/characters/mr-fun-computer.webp"
+        },
+        {
+          "title": "Wenda (Sprunki White)",
+          "character": "Angelic Voice",
+          "desc": "A white cat with long ears and a cute expression. Her angelic voice adds elegance to your music.",
+          "features": ["Angelic vocals", "Elegant tones", "Gentle presence"],
+          "image_url": "/characters/wenda.webp"
+        },
+        {
+          "title": "Pinki (Sprunki Pink)",
+          "character": "Playful Singer",
+          "desc": "A pink bunny representing innocence and energy. Sweet, playful voice perfect for fun, light-hearted tracks.",
+          "features": ["Sweet voice", "Playful tones", "Fun energy"],
+          "image_url": "/characters/pinki.webp"
+        },
+        {
+          "title": "Jevin (Sprunki Blue)",
+          "character": "Cool Vocalist",
+          "desc": "Deep blue design exuding coolness and charm. Smooth, deep voice adds a cool, confident vibe to your track.",
+          "features": ["Cool vibes", "Deep voice", "Confident tone"],
+          "image_url": "/characters/jevin.webp"
+        },
+        {
+          "title": "Black (Sprunki Black)",
+          "character": "Power Vocalist",
+          "desc": "Pitch-black appearance radiating mystery and authority. Strong, powerful voice perfect for mysterious or tense tracks.",
+          "features": ["Powerful voice", "Mysterious tone", "Authoritative presence"],
+          "image_url": "/characters/black.webp"
+        }
+      ]
+    },
+    "Beat-Characters": {
+      "title": "Beat Characters",
+      "cardlist": [
+        {
+          "title": "Oren (Sprunki Orange)",
+          "character": "Electronic Beat Master",
+          "desc": "Bright orange color reflecting his upbeat personality. Brings vibrant electronic beats and dynamic sound effects.",
+          "features": ["Electronic beats", "Dynamic effects", "High energy"],
+          "image_url": "/characters/oren.webp"
+        },
+        {
+          "title": "Raddy (Sprunki Red)",
+          "character": "Power Drummer",
+          "desc": "Red skin symbolizing strength and energy. Delivers powerful drum beats, adding intensity and strength to any track.",
+          "features": ["Powerful beats", "Strong rhythms", "Intense energy"],
+          "image_url": "/characters/raddy.webp"
+        },
+        {
+          "title": "Clukr (Sprunki Silver)",
+          "character": "Tech Beat Maker",
+          "desc": "Silver appearance with mechanical elements. Provides cutting-edge mechanical beats, ideal for sci-fi or tech-inspired tracks.",
+          "features": ["Mechanical beats", "Tech vibes", "Precise timing"],
+          "image_url": "/characters/clukr.webp"
+        },
+        {
+          "title": "Fun Bot",
+          "character": "Quirky Beat Bot",
+          "desc": "Bright blue eyes and a cute tech-inspired style. Injects playful robot rhythms with quirky beats and sound effects.",
+          "features": ["Playful rhythms", "Quirky beats", "Fun effects"],
+          "image_url": "/characters/fun-bot.webp"
+        },
+        {
+          "title": "Vineria (Sprunki Green)",
+          "character": "Nature Beat Maker",
+          "desc": "Green skin and vine-like hair, embodying nature's beauty. Adds light, airy sound effects, perfect for creating peaceful atmospheres.",
+          "features": ["Natural rhythms", "Airy effects", "Peaceful beats"],
+          "image_url": "/characters/vineria.webp"
+        }
+      ]
+    },
+    "Effect-Characters": {
+      "title": "Effect Characters",
+      "cardlist": [
+        {
+          "title": "Gray",
+          "character": "Echo Master",
+          "desc": "Gray appearance with dark gray eyes. Provides resonating echo sounds, creating a vast, expansive feeling.",
+          "features": ["Echo effects", "Expansive sound", "Resonating depth"],
+          "image_url": "/characters/gray.webp"
+        },
+        {
+          "title": "Brud (Sprunki Brown)",
+          "character": "Quirky Effects Master",
+          "desc": "Wears a barrel on his head, adding a humorous twist. Offers quirky and playful sounds, perfect for unexpected transitions.",
+          "features": ["Quirky sounds", "Unexpected effects", "Playful transitions"],
+          "image_url": "/characters/brud.webp"
+        },
+        {
+          "title": "Garnold (Sprunki Yellow)",
+          "character": "Power Effects Creator",
+          "desc": "Eyes covered by an electronic screen. Delivers strong, intense beats, ideal for energetic music.",
+          "features": ["Strong effects", "Intense power", "High energy"],
+          "image_url": "/characters/garnold.webp"
+        },
+        {
+          "title": "QWAKCX (Sprunki Lime)",
+          "character": "Experimental Artist",
+          "desc": "Quirky green design for experimental styles. Known for avant-garde design and sound effects, encouraging musical exploration.",
+          "features": ["Experimental sounds", "Avant-garde effects", "Creative exploration"],
+          "image_url": "/characters/qwakcx.webp"
+        },
+        {
+          "title": "Sky (Sprunki Sky Blue)",
+          "character": "Ethereal Effects Master",
+          "desc": "Blue-toned design symbolizing freedom. Adds light, ethereal effects, ideal for dreamy music.",
+          "features": ["Ethereal effects", "Light touches", "Dreamy atmosphere"],
+          "image_url": "/characters/sky.webp"
+        }
+      ]
+    }
   }
 }

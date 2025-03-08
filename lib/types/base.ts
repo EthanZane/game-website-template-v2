@@ -8,6 +8,14 @@ export interface Pageable<T = object> {
   data?: T;
 }
 
+export interface CardData {
+  title: string;
+  character: string;
+  desc: string;
+  features: string[];
+  image_url: string;  // 新增图片URL字段
+}
+
 export type IconSvgProps<T = string> = {} & SVGProps<T>;
 
 export interface FAQItem {

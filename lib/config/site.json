@@ -13,7 +13,8 @@
     "fontColor": "#333333",
     "backgroundColor": "#ffffff"
   },
-  "gaId": "",
+  "gaId": "G-W6J31XHX62",
+  "adsenseClientId": "ca-pub-5295186542314417",
   "clarityId": "",
   "plausible": "",
   "gameType": "iframe",
@@ -24,12 +25,8 @@
   "bgVideo": "",
   "friendLinks":[
     {
-      "title": "jujutsuinfinite",
-      "url": "https://jujutsuinfinite.com/"
-    },
-    {
-      "title": "hapunangame",
-      "url": "https://hapunangame.com/"
+      "title": "DiffRhythm AI",
+      "url": "https://diffrhythm.xyz/"
     }
   ],
   "gameDownload": {
